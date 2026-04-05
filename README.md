@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=yoseef2002&theme=tokyonight" />
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=yoseef2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -108,7 +108,7 @@ Personal portfolio built with React and Tailwind CSS.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=6366F1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yoseef2002&label=Profile%20views&color=6366F1&style=for-the-badge" />
 
 </div>
 
@@ -117,11 +117,11 @@ Personal portfolio built with React and Tailwind CSS.
 # 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-⭐ From [Yousef Ahmed](https://github.com/YOUR_USERNAME)
+⭐ From [Yousef Ahmed](https://github.com/yoseef2002)
