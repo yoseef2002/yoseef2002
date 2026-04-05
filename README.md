@@ -7,7 +7,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 * 💻 Front-End Developer focused on React
 * 🌱 Currently learning **Advanced React & Modern Frontend**
 * 🎯 Goal: Become Professional Front-End Developer
@@ -16,27 +16,20 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### 💻 Frontend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </div>
 
-### 🧰 Tools
+###  Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
 
 ---
 
-# 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yoseef2002&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoseef2002&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
 
 # 🔥 GitHub Streak
 <div align="center">
@@ -88,13 +81,5 @@ Personal portfolio built with React and Tailwind CSS.
 
 ---
 
-# 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yoseef2002/yoseef2002/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 ⭐ From [Yousef Ahmed](https://github.com/yoseef2002)
