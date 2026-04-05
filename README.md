@@ -38,13 +38,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yoseef2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ## 🛍️ E-Commerce Website
